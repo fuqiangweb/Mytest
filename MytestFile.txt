@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world!！！! first！
+=======
+hello world!！！
+>>>>>>> parent of 900da5a... 提交测试
